@@ -122,9 +122,3 @@ The project can be further improved by:
 - Adding predictive analysis for future call volumes.
 
 ---
-
-## 👨‍💻 Author
-
-**Hari Sudharsan**
-
-This project was created as part of a **Data Analytics / Excel Dashboard project** to demonstrate practical skills in data cleaning, analysis, visualization, and dashboard development.
